@@ -33,6 +33,7 @@ The general syntax for format specifiers is:
 ```
 
 Common values for `conversion` are the following:
+
 | Conversion | Data Type |
 | ---------- | --------- |
 | `b` | `boolean` |
@@ -43,6 +44,7 @@ Common values for `conversion` are the following:
 | `s` | `string` |
 
 Common values for `flag` are the following:
+
 | Flag | Description |
 | ---- | ----------- |
 | `-` | Left justification |
