@@ -1,2 +1,2 @@
 # Introduction to Object Oriented Programming
-Chapter 3 covers what was introduced in class on September 1st and 3rd. Is is incredibly important to understand what classes and objects are, what encapsulation means, reference variables, UMLs, etc.
+Chapter 3 covers what was introduced in class on September 1st and 3rd. It is incredibly important to understand what classes and objects are, what encapsulation means, reference variables, UMLs, etc.
