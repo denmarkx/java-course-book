@@ -1,6 +1,5 @@
 [book]
 title = "Programming Fundamentals II"
-authors = ["Mark"]
 language = "en"
 
 [output.html.fold]
